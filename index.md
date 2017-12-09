@@ -1,13 +1,15 @@
 ## Robin.X.Yuan Latin Note
 
-### Latin Pronuncitation
-- Ecclesiastical Latin
-- Classical Latin
+### 拉丁语发音
+- 教会式
+- 古典式
 
-Here is Classical Latin
+这里偏重古典式
 
-1. Vowel
+1. 元音
 1.1 e/ē
+发音规则
+
 
 
 āōīēū ĀŌĪĒŪ
