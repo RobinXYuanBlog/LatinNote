@@ -79,10 +79,45 @@ ubi adv. 哪里
 ### 课外单词补充
 #### 法学
 
-Latin | English |   La-Ch  |   En-Ch   
--|:-:|-:
+| Latin | La-Ch  |   En-Ch   |
+|:------|:---------|:--------|
+| alibi |另一个地方 | 不在场证明 |
+| habeas corpus | 你可以有这个身体 | 人身保护权（嫌疑犯上法庭的权力）|
+| sub-poena | poena惩罚；sub在……之下 | 传票；用（传票）传唤|
 
-alibi |  alibi  | 另一个地方 | 不在场证明
+### 咒语
+1. Expecto Patronum 呼神护卫
+
+    **expecto** 
+
+    动词第一人称单数，现在时，指示语气，主动形
+
+    我期待，我盼望
+
+    **patronum**
+
+    动词宾格，单数，阳性
+
+    守护神
+
+2. Expelliarmus 除你武器
+
+    **expelli**
+
+    动词现在时的被动形不定式
+
+    被驱逐，被除去
+
+    **armus**
+
+    名词，单数，阳性
+
+    手臂
+
+
+
+
+
 
 
 ĀŌĪĒŪ
